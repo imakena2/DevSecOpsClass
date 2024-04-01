@@ -1,0 +1,9 @@
+
+create files on your local machine or import them from another folder
+Add those files to your directory
+commit those files to your local repo --rem to add commit message. This message is very critical because it will guide those who will access your repo and know what to do. 
+Create a remote repository on github
+link your remote repository with your local repo
+Push your files in the local repo to remote repository
+While working on remote repository you can add other files on it
+Fetch and pull those additions in your remote repository toyour local repository and make some more changes
